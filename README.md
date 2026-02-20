@@ -1,4 +1,4 @@
-# Flutter-Firebase-Chat-App
+# Flutter Firebase Chat App
 
 A real-time chat application built using Flutter and Firebase.  
 This app allows users to register, log in, and send instant messages using Cloud Firestore streams.
